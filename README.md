@@ -81,4 +81,9 @@ The Logistic Regression model achieved:
 ## 👩‍💻 Authors
 
 **Radhika Pal**
+<br>
+202410101360141
+<br>
 **Anurag Chaudhary**
+<br>
+202410101360169
